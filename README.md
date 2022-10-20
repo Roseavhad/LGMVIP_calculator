@@ -1,2 +1,2 @@
 # LGMVIP_calculator
-I developed the code of website using html,css and js. 
+I developed the code of calculator using html,css and js. 
